@@ -1,21 +1,8 @@
-# CSAW-HackML-2020
+# CSAW-HackML-2020/lab-3 fine pruning
 
 This repo is for repairing BD which is a challeng from CSAW-HackML-2021 [here] (https://github.com/Martina-Wei/CSAW-HackML-2021)
 
-```bash
-├── data 
-    └── clean_validation_data.h5 // this is clean data used to evaluate the BadNet and design the backdoor defense
-    └── clean_test_data.h5
-    └── sunglasses_poisoned_data.h5
-├── models
-    └── anonymous_bd_net.h5
-    └── anonymous_bd_weights.h5
-    └── sunglasses_bd_net.h5
-    └── sunglasses_bd_weights.h5
-├── architecture.py
-├── eval.py // this is the evaluation script
-└── bd1.py // this shows the filter for db1
-```
+
     
 
 ## Dependencies
