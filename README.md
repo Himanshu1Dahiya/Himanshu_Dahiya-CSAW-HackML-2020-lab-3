@@ -1,7 +1,5 @@
 # CSAW-HackML-2020/lab-3 fine pruning
 
-This repo is for repairing BD which is a challeng from CSAW-HackML-2021 [here] (https://github.com/Martina-Wei/CSAW-HackML-2021)
-
 
     
 
